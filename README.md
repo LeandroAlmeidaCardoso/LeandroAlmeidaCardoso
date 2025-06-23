@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leandroalmeidacardoso" alt="leandroalmeidacardoso" /></a> </p>
 
-- 🔭 I’m currently working on [FitBank](https://www.linkedin.com/company/fitbank-450/mycompany/)
+- 🔭 I’m currently working on EasyCode IT
 
 - 🌱 I’m currently learning **any IT-related topic**
 
